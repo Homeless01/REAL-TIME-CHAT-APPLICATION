@@ -93,7 +93,7 @@ npm start
 
 ## 📸 Screenshots
 
-*Add your screenshots here (chat UI, mobile view, etc.)*
+![Image](https://github.com/user-attachments/assets/e3faf7ba-35ca-462c-ba7c-02f8636e83a8)
 
 ---
 
